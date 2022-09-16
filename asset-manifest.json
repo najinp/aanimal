@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65ee29bc.css",
+    "main.js": "/static/js/main.0a397a1e.js",
+    "static/media/doggy01.jpg": "/static/media/doggy01.87e639843ebc3476f98d.jpg",
+    "static/media/doggy02.jpg": "/static/media/doggy02.1dc3a8da4d401b2f4198.jpg",
+    "index.html": "/index.html",
+    "main.65ee29bc.css.map": "/static/css/main.65ee29bc.css.map",
+    "main.0a397a1e.js.map": "/static/js/main.0a397a1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65ee29bc.css",
+    "static/js/main.0a397a1e.js"
+  ]
+}
